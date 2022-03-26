@@ -1,4 +1,4 @@
-//Script made by Lelebees: Last update at 26-03-2022 16:12 UTC+1 (Central European Time)
+//Script made by Lelebees: Last update at 26-03-2022 18:43 UTC+1 (Central European Time)
 //Virtually Invisible Communications Protocol V1.0
 
 string antennaName = "Antenna";
